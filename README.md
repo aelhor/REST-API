@@ -1,11 +1,7 @@
-# add readme file
+CRUD operation for an E-commerce app 
 
-add new feature test  
+Created with Nodejs, Express and Mongodb 
 
-# update README File 2 
+install all depenanceies with : npm insall]
 
-new update2 [Failed]
-
-# update README File 3
-
-new update2
+run with : node app.js
